@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sinancan Sevinc</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 
 - 🔭 I’m currently working at **Docplanner Technology**
 
