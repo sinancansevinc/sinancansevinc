@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working at **Docplanner Technology**
 
-- 🌱 I’m currently keep learning **.NET , Django , React.JS**
+- 🌱 I’m currently keep focusing on **.NET Core , Django , Cloud Technologies **
 
 - 📫 How to reach me **sinancansevinc24@gmail.com**
 
