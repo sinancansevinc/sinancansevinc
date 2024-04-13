@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sinancan Sevinc</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working at **Docplanner Technology**
+- 🔭 I’m currently working at **Huawei**
 
-- 🌱 I’m currently keep focusing on **.NET Core , Django , Cloud Technologies **
+- 🌱 I’m currently keep focusing on **.NET Core** , **Django** , **Cloud Technologies**
 
 - 📫 How to reach me **sinancansevinc24@gmail.com**
 
