@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sinancan Sevinc</h1>
 <h3 align="center">A passionate software engineer</h3>
 
-- 🔭 I’m currently working at **Huawei**
+- 🔭 I’m currently working at **QNB INVEST**
 
 - 🌱 I’m currently keep focusing on **.NET Core** , **Django** , **Cloud Technologies**
 
